@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+build/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.log
+
+# SFML libraries
+*.dll
+*.lib
+
+# Temporary files
+*.tmp
+*.cache
+*.ipch
+
+# OS files
+.DS_Store
+Thumbs.db
